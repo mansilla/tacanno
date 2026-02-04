@@ -1,0 +1,12 @@
+python-telegram-bot==21.0.1
+pyyaml
+google-api-python-client
+google-auth
+google-auth-oauthlib
+openai
+openai-agents
+pillow
+pytesseract
+python-dateutil
+matplotlib
+pandas
